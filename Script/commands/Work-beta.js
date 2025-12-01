@@ -3,7 +3,7 @@ module.exports.config = {
     name: "job",
     version: "1.0.2",
     hasPermssion: 0,
-    credits: "𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️ 𝑻𝑬𝑨𝑴_ ☢️", 
+    credits: "[ / ] • ] • ➠⎯͢⎯⃝🥵 𝗙𝗔𝗛𝗔𝗗➠𝗔𝗥 ⋆⃝𝗕𝗢𝗧🫦⋆⃝─•", 
     description: "",
     commandCategory: "Economy",
     cooldowns: 5,
